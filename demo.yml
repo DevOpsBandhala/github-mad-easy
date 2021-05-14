@@ -1,0 +1,6 @@
+---
+- name: This is demo git file
+  tasks: all
+    - name: Print Demo text
+        msg: "Hello this is demo test"
+...
